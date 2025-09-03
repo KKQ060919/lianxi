@@ -1,0 +1,51 @@
+# Django 和 REST 框架
+Django==5.1.7
+djangorestframework==3.15.2
+django-filter==24.3
+django-cors-headers==4.6.0
+
+# Redis 客户端
+redis==5.2.1
+
+# OpenAI 客户端（用于调用千问 API）
+openai==1.101.0
+
+# MySQL 客户端
+PyMySQL==1.1.1
+
+# HTTP 请求库（用于测试）
+requests==2.32.3
+
+# LangChain 相关依赖（用于RAG脚本）
+langchain==0.3.27
+langchain-core==0.3.74
+langchain-community==0.3.27
+langchain-text-splitters==0.3.9
+langchain-openai==0.3.31
+langchain-huggingface==0.1.2
+langchain-chroma==0.1.4
+
+# 向量数据库
+chromadb==0.5.18
+
+# 嵌入模型依赖
+dashscope==1.24.2
+
+# HuggingFace 相关
+transformers==4.46.3
+torch==2.5.1
+sentence-transformers==3.3.1
+
+# PDF处理库 - 使用pypdf代替PyPDF2
+pypdf==5.1.0
+pdfplumber==0.11.4
+
+# Word文档处理库
+python-docx==1.1.2
+docx2txt==0.8
+
+# 中文分词库
+jieba==0.42.1
+
+# 其他工具库
+pathlib2==2.3.7
