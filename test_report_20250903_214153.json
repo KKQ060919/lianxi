@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Django服务器连接",
+    "success": true,
+    "message": "服务器运行正常",
+    "timestamp": "2025-09-03T21:41:33.846957",
+    "data": null
+  },
+  {
+    "name": "商品列表API",
+    "success": true,
+    "message": "获取到 12 个商品",
+    "timestamp": "2025-09-03T21:41:33.886501",
+    "data": null
+  },
+  {
+    "name": "热门商品API",
+    "success": true,
+    "message": "获取到 5 个热门商品",
+    "timestamp": "2025-09-03T21:41:33.911266",
+    "data": null
+  },
+  {
+    "name": "商品分类API",
+    "success": true,
+    "message": "获取到分类: 手机, 耳机, 电脑, 平板",
+    "timestamp": "2025-09-03T21:41:33.940651",
+    "data": null
+  },
+  {
+    "name": "商品详情API",
+    "success": true,
+    "message": "获取商品: iPhone 15 Pro",
+    "timestamp": "2025-09-03T21:41:33.956133",
+    "data": null
+  },
+  {
+    "name": "记录用户行为API",
+    "success": true,
+    "message": "行为记录成功",
+    "timestamp": "2025-09-03T21:41:33.992773",
+    "data": null
+  },
+  {
+    "name": "用户最近浏览API",
+    "success": true,
+    "message": "获取到 1 条浏览记录",
+    "timestamp": "2025-09-03T21:41:33.996327",
+    "data": null
+  },
+  {
+    "name": "用户行为统计API",
+    "success": true,
+    "message": "统计数据获取成功",
+    "timestamp": "2025-09-03T21:41:33.999962",
+    "data": null
+  },
+  {
+    "name": "RAG初始化API",
+    "success": true,
+    "message": "系统初始化成功",
+    "timestamp": "2025-09-03T21:41:34.001966",
+    "data": null
+  },
+  {
+    "name": "RAG问答API",
+    "success": true,
+    "message": "回答: 根据提供的知识库信息，iPhone 15 Pro具有以下特点：\n\n- **生物识别**：支持虹膜识别技术。这意味着用户可以通过自己的眼睛特征来解锁手机或进行身份验证，提供了一种既安全又便捷的生物识别方..., 来源: 3个",
+    "timestamp": "2025-09-03T21:41:47.123254",
+    "data": null
+  },
+  {
+    "name": "知识库搜索API",
+    "success": true,
+    "message": "搜索到 5 条结果",
+    "timestamp": "2025-09-03T21:41:47.250944",
+    "data": null
+  },
+  {
+    "name": "创建用户画像API",
+    "success": true,
+    "message": "用户画像创建成功",
+    "timestamp": "2025-09-03T21:41:47.279816",
+    "data": null
+  },
+  {
+    "name": "获取用户画像API",
+    "success": true,
+    "message": "偏好分类: ['手机', '耳机']",
+    "timestamp": "2025-09-03T21:41:47.287113",
+    "data": null
+  },
+  {
+    "name": "智能推荐API",
+    "success": true,
+    "message": "推荐: Agent stopped due to max iterations....",
+    "timestamp": "2025-09-03T21:41:53.601441",
+    "data": null
+  }
+]

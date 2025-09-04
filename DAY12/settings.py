@@ -42,6 +42,10 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_filters',
     'corsheaders',
+    'Agents',
+    'product',
+    'rag',
+    'users'
 ]
 
 MIDDLEWARE = [
@@ -94,6 +98,13 @@ CORS_ALLOW_ALL_ORIGINS = True
 #图片
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
+
+# Redis配置
+REDIS_CONFIG = {
+    'host': 'localhost',
+    'port': 6379,
+    'db': 0,
+}
 
 
 # Password validation
